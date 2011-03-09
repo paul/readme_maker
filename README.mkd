@@ -1,0 +1,12 @@
+
+# Readme Maker
+
+Readme Maker is a tool for [RDD][]. Simply stick some ruby code in an ERB block in your README, run the rake task, and have the code along side it output, nicely formatted. See the `README.mkd.rdd` in this directory for the file that was used to generate this README.mkd.
+
+    1 + 2  #=> 
+    3
+
+
+
+
+
